@@ -8,12 +8,11 @@ Projet bibliotheque en J2EE le 27/092019
 Connexion depuis le site : 
 
 
-Utilisateur standard : 
-
+### Utilisateur standard : 
 User : ce que tu veux 
 mdp : ce que tu veux. 
 
-Utilisateur Admin : 
+### Utilisateur Admin : 
 User: Admin
 mdp: admin
 
